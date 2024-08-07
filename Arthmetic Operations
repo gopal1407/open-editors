@@ -1,0 +1,14 @@
+#Task 1
+
+price_bread = 2.50
+price_peanut_butter = 3.75
+price_jelly = 1.99
+
+total_cost = price_bread + price_peanut_butter + price_jelly
+print ("The total cost is:", total_cost)
+
+#Task 2
+initial_amount = 10000.00
+interest_rate = 0.07
+total_amount = initial_amount * (1 + interest_rate)
+print ("The total amount after one year is: $", total_amount)
